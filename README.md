@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://tinyurl.com/jagoanuptime): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/serversshnet/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/serversshnet/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/serversshnet/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/serversshnet/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -19,7 +19,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://tinyurl.com/jagoanuptime)
 
 ## 📄 License
 

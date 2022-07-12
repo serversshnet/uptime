@@ -4,7 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Jagoanssh - Website
+    check: "tcp-ping"
     url: https://jagoanssh.com
+    port: 443
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News

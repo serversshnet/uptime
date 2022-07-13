@@ -22,19 +22,19 @@
     "url": "idtr.jagoan.vip",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "idtr-jagoan-vip",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "status": "up",
+    "uptime": "77.93%",
+    "uptimeDay": "77.93%",
+    "uptimeWeek": "77.93%",
+    "uptimeMonth": "77.93%",
+    "uptimeYear": "77.93%",
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 262
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "idtr.jagoan.vip",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "id2tr-jagoan-vip",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "status": "up",
+    "uptime": "77.93%",
+    "uptimeDay": "77.93%",
+    "uptimeWeek": "77.93%",
+    "uptimeMonth": "77.93%",
+    "uptimeYear": "77.93%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 262
     }
   },
   {

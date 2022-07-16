@@ -6,6 +6,102 @@ sites:
   - name: Jagoanssh - Website
     check: "tcp-ping"
     url: jagoanssh.com
+  - name: sg1.ipservers.xyz
+    check: "tcp-ping"
+    url: sg1.ipservers.xyz
+  - name: sg2.ipservers.xyz
+    check: "tcp-ping"
+    url: sg2.ipservers.xyz
+  - name: sg3.ipservers.xyz
+    check: "tcp-ping"
+    url: sg3.ipservers.xyz
+  - name: sg4.ipservers.xyz
+    check: "tcp-ping"
+    url: sg4.ipservers.xyz
+  - name: sg5.ipservers.xyz
+    check: "tcp-ping"
+    url: sg5.ipservers.xyz
+  - name: sg6.ipservers.xyz
+    check: "tcp-ping"
+    url: sg6.ipservers.xyz
+  - name: id.ipservers.xyz
+    check: "tcp-ping"
+    url: id.ipservers.xyz
+  - name: id2.ipservers.xyz
+    check: "tcp-ping"
+    url: id2.ipservers.xyz
+  - name: id3.ipservers.xyz
+    check: "tcp-ping"
+    url: id3.ipservers.xyz
+  - name: us1.ipservers.xyz
+    check: "tcp-ping"
+    url: us1.ipservers.xyz
+  - name: uk1.ipservers.xyz
+    check: "tcp-ping"
+    url: uk1.ipservers.xyz
+  - name: fr.ipservers.xyz
+    check: "tcp-ping"
+    url: fr.ipservers.xyz
+  - name: ge.ipservers.xyz
+    check: "tcp-ping"
+    url: ge.ipservers.xyz
+  - name: sg1-7.ipservers.xyz
+    check: "tcp-ping"
+    url: sg1-7.ipservers.xyz
+  - name: sg2-7.ipservers.xyz
+    check: "tcp-ping"
+    url: sg2-7.ipservers.xyz
+  - name: sg3-7.ipservers.xyz
+    check: "tcp-ping"
+    url: sg3-7.ipservers.xyz
+  - name: sg4-7.ipservers.xyz
+    check: "tcp-ping"
+    url: sg4-7.ipservers.xyz
+  - name: us1-7.ipservers.xyz
+    check: "tcp-ping"
+    url: us1-7.ipservers.xyz
+  - name: uk1-7.ipservers.xyz
+    check: "tcp-ping"
+    url: uk1-7.ipservers.xyz
+  - name: id1-7.ipservers.xyz
+    check: "tcp-ping"
+    url: id1-7.ipservers.xyz
+  - name: id2-7.ipservers.xyz
+    check: "tcp-ping"
+    url: id2-7.ipservers.xyz
+  - name: id3-7.ipservers.xyz
+    check: "tcp-ping"
+    url: id3-7.ipservers.xyz
+  - name: fr1-7.ipservers.xyz
+    check: "tcp-ping"
+    url: fr1-7.ipservers.xyz
+  - name: ge1-7.ipservers.xyz
+    check: "tcp-ping"
+    url: ge1-7.ipservers.xyz
+  - name: sg1-30.ipservers.xyz
+    check: "tcp-ping"
+    url: sg1-30.ipservers.xyz
+  - name: sg2-30.ipservers.xyz
+    check: "tcp-ping"
+    url: sg2-30.ipservers.xyz
+  - name: sg3-30.ipservers.xyz
+    check: "tcp-ping"
+    url: sg3-30.ipservers.xyz
+  - name: sg4-30.ipservers.xyz
+    check: "tcp-ping"
+    url: sg4-30.ipservers.xyz
+  - name: us1-30.ipservers.xyz
+    check: "tcp-ping"
+    url: us1-30.ipservers.xyz
+  - name: uk1-30.ipservers.xyz
+    check: "tcp-ping"
+    url: uk1-30.ipservers.xyz
+  - name: vip.ipservers.xyz
+    check: "tcp-ping"
+    url: vip.ipservers.xyz
+  - name: vip2.ipservers.xyz
+    check: "tcp-ping"
+    url: vip2.ipservers.xyz
   - name: idtr.jagoan.vip
     check: "tcp-ping"
     url: idtr.jagoan.vip
@@ -43,10 +139,10 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
   uptime: "*/5 * * * *"

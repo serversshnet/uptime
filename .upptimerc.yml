@@ -102,17 +102,49 @@ sites:
   - name: vip2.ipservers.xyz
     check: "tcp-ping"
     url: vip2.ipservers.xyz
-  - name: idtr.jagoan.vip
+  - name: sg.vmes.xyz
     check: "tcp-ping"
-    url: idtr.jagoan.vip
+    url: sg.vmes.xyz
     port: 443
-  - name: id2tr.jagoan.vip
+  - name: sg2.vmes.xyz
     check: "tcp-ping"
-    url: idtr.jagoan.vip
+    url: sg2.vmes.xyz
     port: 443
-  - name: idray.jagoan.vip
+  - name: sg3.vmes.xyz
     check: "tcp-ping"
-    url: idray.jagoan.vip
+    url: sg3.vmes.xyz
+    port: 443
+  - name: sg4.vmes.xyz
+    check: "tcp-ping"
+    url: sg4.vmes.xyz
+    port: 443
+  - name: sg4.vmes.xyz
+    check: "tcp-ping"
+    url: sg4.vmes.xyz
+    port: 443
+  - name: sg5.vmes.xyz
+    check: "tcp-ping"
+    url: sg5.vmes.xyz
+    port: 443
+  - name: sg6.vmes.xyz
+    check: "tcp-ping"
+    url: sg6.vmes.xyz
+    port: 443
+  - name: sg7.vmes.xyz
+    check: "tcp-ping"
+    url: sg7.vmes.xyz
+    port: 443
+  - name: sg8.vmes.xyz
+    check: "tcp-ping"
+    url: sg8.vmes.xyz
+    port: 443
+  - name: us.vmes.xyz
+    check: "tcp-ping"
+    url: us.vmes.xyz
+    port: 443
+  - name: us2.vmes.xyz
+    check: "tcp-ping"
+    url: us2.vmes.xyz
     port: 443
     
 status-website:

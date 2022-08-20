@@ -146,6 +146,74 @@ sites:
     check: "tcp-ping"
     url: us2.vmes.xyz
     port: 443
+  - name: sg1vless.ipservers.xyz
+    check: "tcp-ping"
+    url: sg1vless.ipservers.xyz
+    port: 443
+  - name: sg2vless.ipservers.xyz
+    check: "tcp-ping"
+    url: sg2vless.ipservers.xyz
+    port: 443
+  - name: sg3vless.ipservers.xyz
+    check: "tcp-ping"
+    url: sg3vless.ipservers.xyz
+    port: 443
+  - name: sg4vless.ipservers.xyz
+    check: "tcp-ping"
+    url: sg4vless.ipservers.xyz
+    port: 443
+  - name: sg5vless.ipservers.xyz
+    check: "tcp-ping"
+    url: sg5vless.ipservers.xyz
+    port: 443
+  - name: sgcvless.ipservers.xyz
+    check: "tcp-ping"
+    url: sgcvless.ipservers.xyz
+    port: 443
+  - name: sgtro.ipservers.xyz
+    check: "tcp-ping"
+    url: sgtro.ipservers.xyz
+    port: 443
+  - name: sg2tro.ipservers.xyz
+    check: "tcp-ping"
+    url: sg2tro.ipservers.xyz
+    port: 443
+  - name: sg3tro.ipservers.xyz
+    check: "tcp-ping"
+    url: sg3tro.ipservers.xyz
+    port: 443
+  - name: sg4tro.ipservers.xyz
+    check: "tcp-ping"
+    url: sg4tro.ipservers.xyz
+    port: 443
+  - name: ustro.ipservers.xyz
+    check: "tcp-ping"
+    url: ustro.ipservers.xyz
+    port: 443
+  - name: us2tro.ipservers.xyz
+    check: "tcp-ping"
+    url: us2tro.ipservers.xyz
+    port: 443
+  - name: sg1go.ipservers.xyz
+    check: "tcp-ping"
+    url: sg1go.ipservers.xyz
+    port: 443
+  - name: sg2go.ipservers.xyz
+    check: "tcp-ping"
+    url: sg2go.ipservers.xyz
+    port: 443
+  - name: sg3go.ipservers.xyz
+    check: "tcp-ping"
+    url: sg3go.ipservers.xyz
+    port: 443
+  - name: usgo.ipservers.xyz
+    check: "tcp-ping"
+    url: usgo.ipservers.xyz
+    port: 443
+  - name: sgcgo.ipservers.xyz
+    check: "tcp-ping"
+    url: sgcgo.ipservers.xyz
+    port: 443
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

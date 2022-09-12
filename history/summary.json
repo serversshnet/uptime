@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sg1-ipservers-xyz",
     "status": "up",
-    "uptime": "85.08%",
+    "uptime": "85.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "34.49%",
-    "uptimeMonth": "84.93%",
-    "uptimeYear": "85.08%",
+    "uptimeWeek": "34.37%",
+    "uptimeMonth": "84.90%",
+    "uptimeYear": "85.07%",
     "time": 291,
     "timeDay": 275,
     "timeWeek": 301,
     "timeMonth": 279,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-09-12": 1065,
+      "2022-09-12": 1077,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
@@ -264,10 +264,10 @@
     "url": "fr.ipservers.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fr-ipservers-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
@@ -275,7 +275,9 @@
     "timeWeek": 133,
     "timeMonth": 127,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-12": 1
+    }
   },
   {
     "name": "ge.ipservers.xyz",
@@ -505,10 +507,10 @@
     "url": "fr1-7.ipservers.xyz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fr1-7-ipservers-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
@@ -516,7 +518,9 @@
     "timeWeek": 132,
     "timeMonth": 127,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-12": 1
+    }
   },
   {
     "name": "ge1-7.ipservers.xyz",

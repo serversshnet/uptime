@@ -1,7 +1,7 @@
 url: fr.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-10-15T06:47:25.514Z
+status: up
+code: 200
+responseTime: 212
+lastUpdated: 2022-10-15T15:24:54.682Z
 startTime: Sat Jul 16 2022 06:15:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -25,8 +25,8 @@
     "status": "down",
     "uptime": "93.42%",
     "uptimeDay": "91.03%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.53%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "93.42%",
     "time": 281,
     "timeDay": 225,
@@ -34,7 +34,7 @@
     "timeMonth": 230,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-01-16": 64,
+      "2023-01-16": 85,
       "2023-01-15": 141,
       "2022-11-06": 576,
       "2022-09-22": 145,
@@ -193,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg1-7-ipservers-xyz",
     "status": "down",
-    "uptime": "98.83%",
+    "uptime": "98.82%",
     "uptimeDay": "91.02%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "98.83%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.82%",
     "time": 276,
     "timeDay": 219,
     "timeWeek": 206,
     "timeMonth": 215,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2023-01-16": 64,
+      "2023-01-16": 85,
       "2023-01-15": 141,
       "2022-11-06": 576,
       "2022-09-22": 145,
@@ -366,7 +366,7 @@
     "uptime": "93.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.09%",
-    "uptimeMonth": "81.05%",
+    "uptimeMonth": "81.10%",
     "uptimeYear": "93.32%",
     "time": 316,
     "timeDay": 214,
@@ -757,26 +757,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg1socks-ipservers-xyz",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-01-16": 219
-    }
-  },
-  {
-    "name": "sg1vpn.jagoanssh.com",
-    "url": "sg1vpn.jagoanssh.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "sg1vpn-jagoanssh-com",
-    "status": "down",
     "uptime": "0.03%",
     "uptimeDay": "0.03%",
     "uptimeWeek": "0.03%",
@@ -788,7 +768,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 218
+      "2023-01-16": 240
+    }
+  },
+  {
+    "name": "sg1vpn.jagoanssh.com",
+    "url": "sg1vpn.jagoanssh.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "sg1vpn-jagoanssh-com",
+    "status": "down",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-16": 240
     }
   },
   {
@@ -905,18 +905,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sgxvpn-jagoanssh-com",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 217
+      "2023-01-16": 238
     }
   },
   {
@@ -1139,18 +1139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg2tp-ipservers-xyz",
     "status": "down",
-    "uptime": "0.58%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.58%",
-    "uptimeYear": "0.58%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 216
+      "2023-01-16": 237
     }
   },
   {
@@ -2057,19 +2057,19 @@
     "url": "id2-ray.ipservers.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id2-ray-ipservers-xyz",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "status": "up",
+    "uptime": "91.01%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "91.01%",
+    "time": 330,
+    "timeDay": 330,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-01-16": 2
+      "2023-01-16": 21
     }
   },
   {

@@ -755,18 +755,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg1socks-ipservers-xyz",
     "status": "down",
-    "uptime": "0.86%",
-    "uptimeDay": "0.86%",
-    "uptimeWeek": "0.86%",
-    "uptimeMonth": "0.86%",
-    "uptimeYear": "0.86%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 9
+      "2023-01-16": 27
     }
   },
   {
@@ -775,18 +775,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg1vpn-jagoanssh-com",
     "status": "down",
-    "uptime": "0.94%",
-    "uptimeDay": "0.94%",
-    "uptimeWeek": "0.94%",
-    "uptimeMonth": "0.94%",
-    "uptimeYear": "0.94%",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 9
+      "2023-01-16": 27
     }
   },
   {
@@ -903,18 +903,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sgxvpn-jagoanssh-com",
     "status": "down",
-    "uptime": "13.69%",
-    "uptimeDay": "13.69%",
-    "uptimeWeek": "13.69%",
-    "uptimeMonth": "13.69%",
-    "uptimeYear": "13.69%",
+    "uptime": "4.68%",
+    "uptimeDay": "4.68%",
+    "uptimeWeek": "4.68%",
+    "uptimeMonth": "4.68%",
+    "uptimeYear": "4.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 8
+      "2023-01-16": 25
     }
   },
   {
@@ -1137,18 +1137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg2tp-ipservers-xyz",
     "status": "down",
-    "uptime": "15.51%",
-    "uptimeDay": "15.51%",
-    "uptimeWeek": "15.51%",
-    "uptimeMonth": "15.51%",
-    "uptimeYear": "15.51%",
+    "uptime": "4.89%",
+    "uptimeDay": "4.89%",
+    "uptimeWeek": "4.89%",
+    "uptimeMonth": "4.89%",
+    "uptimeYear": "4.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 7
+      "2023-01-16": 24
     }
   },
   {
@@ -2379,20 +2379,18 @@
     "url": "id2tro.ipservers.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id2tro-ipservers-xyz",
-    "status": "down",
-    "uptime": "20.66%",
-    "uptimeDay": "20.66%",
-    "uptimeWeek": "20.66%",
-    "uptimeMonth": "20.66%",
-    "uptimeYear": "20.66%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-01-16": 5
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
+    "dailyMinutesDown": {}
   },
   {
     "name": "autro.ipservers.xyz",

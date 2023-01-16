@@ -3,217 +3,315 @@ owner: serversshnet # Your GitHub organization or username, where this repositor
 repo: uptime # The name of this repository
 
 sites:
-  - name: Jagoanssh - Website
-    check: "tcp-ping"
-    url: jagoanssh.com
-  - name: sg1.ipservers.xyz
-    check: "tcp-ping"
-    url: sg1.ipservers.xyz
-  - name: sg2.ipservers.xyz
-    check: "tcp-ping"
-    url: sg2.ipservers.xyz
-  - name: sg3.ipservers.xyz
-    check: "tcp-ping"
-    url: sg3.ipservers.xyz
-  - name: sg4.ipservers.xyz
-    check: "tcp-ping"
-    url: sg4.ipservers.xyz
-  - name: sg5.ipservers.xyz
-    check: "tcp-ping"
-    url: sg5.ipservers.xyz
-  - name: sg6.ipservers.xyz
-    check: "tcp-ping"
-    url: sg6.ipservers.xyz
-  - name: id.ipservers.xyz
-    check: "tcp-ping"
-    url: id.ipservers.xyz
-  - name: id2.ipservers.xyz
-    check: "tcp-ping"
-    url: id2.ipservers.xyz
-  - name: id3.ipservers.xyz
-    check: "tcp-ping"
-    url: id3.ipservers.xyz
-  - name: us1.ipservers.xyz
-    check: "tcp-ping"
-    url: us1.ipservers.xyz
-  - name: uk1.ipservers.xyz
-    check: "tcp-ping"
-    url: uk1.ipservers.xyz
-  - name: fr.ipservers.xyz
-    check: "tcp-ping"
-    url: fr.ipservers.xyz
-  - name: ge.ipservers.xyz
-    check: "tcp-ping"
-    url: ge.ipservers.xyz
-  - name: sg1-7.ipservers.xyz
-    check: "tcp-ping"
-    url: sg1-7.ipservers.xyz
-  - name: sg2-7.ipservers.xyz
-    check: "tcp-ping"
-    url: sg2-7.ipservers.xyz
-  - name: sg3-7.ipservers.xyz
-    check: "tcp-ping"
-    url: sg3-7.ipservers.xyz
-  - name: sg4-7.ipservers.xyz
-    check: "tcp-ping"
-    url: sg4-7.ipservers.xyz
-  - name: us1-7.ipservers.xyz
-    check: "tcp-ping"
-    url: us1-7.ipservers.xyz
-  - name: uk1-7.ipservers.xyz
-    check: "tcp-ping"
-    url: uk1-7.ipservers.xyz
-  - name: id1-7.ipservers.xyz
-    check: "tcp-ping"
-    url: id1-7.ipservers.xyz
-  - name: id2-7.ipservers.xyz
-    check: "tcp-ping"
-    url: id2-7.ipservers.xyz
-  - name: id3-7.ipservers.xyz
-    check: "tcp-ping"
-    url: id3-7.ipservers.xyz
-  - name: fr1-7.ipservers.xyz
-    check: "tcp-ping"
-    url: fr1-7.ipservers.xyz
-  - name: ge1-7.ipservers.xyz
-    check: "tcp-ping"
-    url: ge1-7.ipservers.xyz
-  - name: sg1-30.ipservers.xyz
-    check: "tcp-ping"
-    url: sg1-30.ipservers.xyz
-  - name: sg2-30.ipservers.xyz
-    check: "tcp-ping"
-    url: sg2-30.ipservers.xyz
-  - name: sg3-30.ipservers.xyz
-    check: "tcp-ping"
-    url: sg3-30.ipservers.xyz
-  - name: sg4-30.ipservers.xyz
-    check: "tcp-ping"
-    url: sg4-30.ipservers.xyz
-  - name: us1-30.ipservers.xyz
-    check: "tcp-ping"
-    url: us1-30.ipservers.xyz
-  - name: uk1-30.ipservers.xyz
-    check: "tcp-ping"
-    url: uk1-30.ipservers.xyz
-  - name: vip.ipservers.xyz
-    check: "tcp-ping"
-    url: vip.ipservers.xyz
-  - name: vip2.ipservers.xyz
-    check: "tcp-ping"
-    url: vip2.ipservers.xyz
-  - name: sg.vmes.xyz
-    check: "tcp-ping"
-    url: sg.vmes.xyz
-    port: 443
-  - name: sg2.vmes.xyz
-    check: "tcp-ping"
-    url: sg2.vmes.xyz
-    port: 443
-  - name: sg3.vmes.xyz
-    check: "tcp-ping"
-    url: sg3.vmes.xyz
-    port: 443
-  - name: sg4.vmes.xyz
-    check: "tcp-ping"
-    url: sg4.vmes.xyz
-    port: 443
-  - name: sg4.vmes.xyz
-    check: "tcp-ping"
-    url: sg4.vmes.xyz
-    port: 443
-  - name: sg5.vmes.xyz
-    check: "tcp-ping"
-    url: sg5.vmes.xyz
-    port: 443
-  - name: sg6.vmes.xyz
-    check: "tcp-ping"
-    url: sg6.vmes.xyz
-    port: 443
-  - name: sg7.vmes.xyz
-    check: "tcp-ping"
-    url: sg7.vmes.xyz
-    port: 443
-  - name: sg8.vmes.xyz
-    check: "tcp-ping"
-    url: sg8.vmes.xyz
-    port: 443
-  - name: us.vmes.xyz
-    check: "tcp-ping"
-    url: us.vmes.xyz
-    port: 443
-  - name: us2.vmes.xyz
-    check: "tcp-ping"
-    url: us2.vmes.xyz
-    port: 443
-  - name: sg1vless.ipservers.xyz
-    check: "tcp-ping"
-    url: sg1vless.ipservers.xyz
-    port: 443
-  - name: sg2vless.ipservers.xyz
-    check: "tcp-ping"
-    url: sg2vless.ipservers.xyz
-    port: 443
-  - name: sg3vless.ipservers.xyz
-    check: "tcp-ping"
-    url: sg3vless.ipservers.xyz
-    port: 443
-  - name: sg4vless.ipservers.xyz
-    check: "tcp-ping"
-    url: sg4vless.ipservers.xyz
-    port: 443
-  - name: sg5vless.ipservers.xyz
-    check: "tcp-ping"
-    url: sg5vless.ipservers.xyz
-    port: 443
-  - name: sgcvless.ipservers.xyz
-    check: "tcp-ping"
-    url: sgcvless.ipservers.xyz
-    port: 443
-  - name: sgtro.ipservers.xyz
-    check: "tcp-ping"
-    url: sgtro.ipservers.xyz
-    port: 443
-  - name: sg2tro.ipservers.xyz
-    check: "tcp-ping"
-    url: sg2tro.ipservers.xyz
-    port: 443
-  - name: sg3tro.ipservers.xyz
-    check: "tcp-ping"
-    url: sg3tro.ipservers.xyz
-    port: 443
-  - name: sg4tro.ipservers.xyz
-    check: "tcp-ping"
-    url: sg4tro.ipservers.xyz
-    port: 443
-  - name: ustro.ipservers.xyz
-    check: "tcp-ping"
-    url: ustro.ipservers.xyz
-    port: 443
-  - name: us2tro.ipservers.xyz
-    check: "tcp-ping"
-    url: us2tro.ipservers.xyz
-    port: 443
-  - name: sg1go.ipservers.xyz
-    check: "tcp-ping"
-    url: sg1go.ipservers.xyz
-    port: 443
-  - name: sg2go.ipservers.xyz
-    check: "tcp-ping"
-    url: sg2go.ipservers.xyz
-    port: 443
-  - name: sg3go.ipservers.xyz
-    check: "tcp-ping"
-    url: sg3go.ipservers.xyz
-    port: 443
-  - name: usgo.ipservers.xyz
-    check: "tcp-ping"
-    url: usgo.ipservers.xyz
-    port: 443
-  - name: sgcgo.ipservers.xyz
-    check: "tcp-ping"
-    url: sgcgo.ipservers.xyz
-    port: 443
+ - name: Jagoanssh - Website
+   check: "tcp-ping"
+   url: jagoanssh.com
+ - name: sg1.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1.ipservers.xyz
+ - name: sg2.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2.ipservers.xyz
+ - name: sg3.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3.ipservers.xyz
+ - name: sg4.ipservers.xyz
+   check: "tcp-ping"
+   url: sg4.ipservers.xyz
+ - name: us1.ipservers.xyz
+   check: "tcp-ping"
+   url: us1.ipservers.xyz
+ - name: uk1.ipservers.xyz
+   check: "tcp-ping"
+   url: uk1.ipservers.xyz
+ - name: sg1-7.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1-7.ipservers.xyz
+ - name: sg2-7.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2-7.ipservers.xyz
+ - name: sg3-7.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3-7.ipservers.xyz
+ - name: sg4-7.ipservers.xyz
+   check: "tcp-ping"
+   url: sg4-7.ipservers.xyz
+ - name: us1-7.ipservers.xyz
+   check: "tcp-ping"
+   url: us1-7.ipservers.xyz
+ - name: uk1-7.ipservers.xyz
+   check: "tcp-ping"
+   url: uk1-7.ipservers.xyz
+ - name: sg1-30.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1-30.ipservers.xyz
+ - name: sg2-30.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2-30.ipservers.xyz
+ - name: sg3-30.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3-30.ipservers.xyz
+ - name: sg4-30.ipservers.xyz
+   check: "tcp-ping"
+   url: sg4-30.ipservers.xyz
+ - name: us1-30.ipservers.xyz
+   check: "tcp-ping"
+   url: us1-30.ipservers.xyz
+ - name: uk1-30.ipservers.xyz
+   check: "tcp-ping"
+   url: uk1-30.ipservers.xyz
+ - name: id1-7.ipservers.xyz
+   check: "tcp-ping"
+   url: id1-7.ipservers.xyz
+ - name: vip.ipservers.xyz
+   check: "tcp-ping"
+   url: vip.ipservers.xyz
+ - name: id.ipservers.xyz
+   check: "tcp-ping"
+   url: id.ipservers.xyz
+ - name: id2-7.ipservers.xyz
+   check: "tcp-ping"
+   url: id2-7.ipservers.xyz
+ - name: id2.ipservers.xyz
+   check: "tcp-ping"
+   url: id2.ipservers.xyz
+ - name: id3.ipservers.xyz
+   check: "tcp-ping"
+   url: id3.ipservers.xyz
+ - name: id3-7.ipservers.xyz
+   check: "tcp-ping"
+   url: id3-7.ipservers.xyz
+ - name: vip2.ipservers.xyz
+   check: "tcp-ping"
+   url: vip2.ipservers.xyz
+ - name: sg1socks.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1socks.ipservers.xyz
+ - name: sg1vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: sg1vpn.jagoanssh.com
+ - name: sg2vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: sg2vpn.jagoanssh.com
+ - name: sg3vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: sg3vpn.jagoanssh.com
+ - name: id1vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: id1vpn.jagoanssh.com
+ - name: id2vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: id2vpn.jagoanssh.com
+ - name: idx1vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: idx1vpn.jagoanssh.com
+ - name: idx2vpn.jagoanssh.com
+   check: "tcp-ping"
+   url: idx2vpn.jagoanssh.com
+ - name: sgxvpn.jagoanssh.com
+   check: "tcp-ping"
+   url: sgxvpn.jagoanssh.com
+ - name: fr.ipservers.xyz
+   check: "tcp-ping"
+   url: fr.ipservers.xyz
+ - name: ge.ipservers.xyz
+   check: "tcp-ping"
+   url: ge.ipservers.xyz
+ - name: sg5.ipservers.xyz
+   check: "tcp-ping"
+   url: sg5.ipservers.xyz
+ - name: sg6.ipservers.xyz
+   check: "tcp-ping"
+   url: sg6.ipservers.xyz
+ - name: sg1tp.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1tp.ipservers.xyz
+ - name: sg2tp.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2tp.ipservers.xyz
+ - name: fr1-7.ipservers.xyz
+   check: "tcp-ping"
+   url: fr1-7.ipservers.xyz
+ - name: ge1-7.ipservers.xyz
+   check: "tcp-ping"
+   url: ge1-7.ipservers.xyz
+ - name: sg-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg-ray.ipservers.xyz
+ - name: sg2-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2-ray.ipservers.xyz
+ - name: sg3-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3-ray.ipservers.xyz
+ - name: sg2socks.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2socks.ipservers.xyz
+ - name: idsocks.ipservers.xyz
+   check: "tcp-ping"
+   url: idsocks.ipservers.xyz
+ - name: id2socks.ipservers.xyz
+   check: "tcp-ping"
+   url: id2socks.ipservers.xyz
+ - name: sg4-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg4-ray.ipservers.xyz
+ - name: sg5-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg5-ray.ipservers.xyz
+ - name: sg6-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg6-ray.ipservers.xyz
+ - name: sg1vless.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1vless.ipservers.xyz
+ - name: sg2vless.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2vless.ipservers.xyz
+ - name: sg3vless.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3vless.ipservers.xyz
+ - name: sg4vless.ipservers.xyz
+   check: "tcp-ping"
+   url: sg4vless.ipservers.xyz
+ - name: sg5vless.ipservers.xyz
+   check: "tcp-ping"
+   url: sg5vless.ipservers.xyz
+ - name: sg7-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg7-ray.ipservers.xyz
+ - name: sg8-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: sg8-ray.ipservers.xyz
+ - name: sg1wg.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1wg.ipservers.xyz
+ - name: sg2wg.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2wg.ipservers.xyz
+ - name: sg3wg.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3wg.ipservers.xyz
+ - name: us-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: us-ray.ipservers.xyz
+ - name: us2-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: us2-ray.ipservers.xyz
+ - name: sgtro.ipservers.xyz
+   check: "tcp-ping"
+   url: sgtro.ipservers.xyz
+ - name: sg2tro.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2tro.ipservers.xyz
+ - name: sg3tro.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3tro.ipservers.xyz
+ - name: ustro.ipservers.xyz
+   check: "tcp-ping"
+   url: ustro.ipservers.xyz
+ - name: us2tro.ipservers.xyz
+   check: "tcp-ping"
+   url: us2tro.ipservers.xyz
+ - name: sg4tro.ipservers.xyz
+   check: "tcp-ping"
+   url: sg4tro.ipservers.xyz
+ - name: sg1go.ipservers.xyz
+   check: "tcp-ping"
+   url: sg1go.ipservers.xyz
+ - name: sg2go.ipservers.xyz
+   check: "tcp-ping"
+   url: sg2go.ipservers.xyz
+ - name: sg3go.ipservers.xyz
+   check: "tcp-ping"
+   url: sg3go.ipservers.xyz
+ - name: usgo.ipservers.xyz
+   check: "tcp-ping"
+   url: usgo.ipservers.xyz
+ - name: sgcgo.ipservers.xyz
+   check: "tcp-ping"
+   url: sgcgo.ipservers.xyz
+ - name: sgcvless.ipservers.xyz
+   check: "tcp-ping"
+   url: sgcvless.ipservers.xyz
+ - name: us1vless.ipservers.xyz
+   check: "tcp-ping"
+   url: us1vless.ipservers.xyz
+ - name: us2vless.ipservers.xyz
+   check: "tcp-ping"
+   url: us2vless.ipservers.xyz
+ - name: id1-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: id1-ray.ipservers.xyz
+ - name: id2-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: id2-ray.ipservers.xyz
+ - name: ca-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: ca-ray.ipservers.xyz
+ - name: au-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: au-ray.ipservers.xyz
+ - name: fr-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: fr-ray.ipservers.xyz
+ - name: ge-ray.ipservers.xyz
+   check: "tcp-ping"
+   url: ge-ray.ipservers.xyz
+ - name: id1vless.ipservers.xyz
+   check: "tcp-ping"
+   url: id1vless.ipservers.xyz
+ - name: id2vless.ipservers.xyz
+   check: "tcp-ping"
+   url: id2vless.ipservers.xyz
+ - name: auvless.ipservers.xyz
+   check: "tcp-ping"
+   url: auvless.ipservers.xyz
+ - name: cavless.ipservers.xyz
+   check: "tcp-ping"
+   url: cavless.ipservers.xyz
+ - name: gevless.ipservers.xyz
+   check: "tcp-ping"
+   url: gevless.ipservers.xyz
+ - name: frvless.ipservers.xyz
+   check: "tcp-ping"
+   url: frvless.ipservers.xyz
+ - name: id1go.ipservers.xyz
+   check: "tcp-ping"
+   url: id1go.ipservers.xyz
+ - name: id2go.ipservers.xyz
+   check: "tcp-ping"
+   url: id2go.ipservers.xyz
+ - name: augo.ipservers.xyz
+   check: "tcp-ping"
+   url: augo.ipservers.xyz
+ - name: cago.ipservers.xyz
+   check: "tcp-ping"
+   url: cago.ipservers.xyz
+ - name: frgo.ipservers.xyz
+   check: "tcp-ping"
+   url: frgo.ipservers.xyz
+ - name: dego.ipservers.xyz
+   check: "tcp-ping"
+   url: dego.ipservers.xyz
+ - name: idtro.ipservers.xyz
+   check: "tcp-ping"
+   url: idtro.ipservers.xyz
+ - name: id2tro.ipservers.xyz
+   check: "tcp-ping"
+   url: id2tro.ipservers.xyz
+ - name: autro.ipservers.xyz
+   check: "tcp-ping"
+   url: autro.ipservers.xyz
+ - name: catro.ipservers.xyz
+   check: "tcp-ping"
+   url: catro.ipservers.xyz
+ - name: frtro.ipservers.xyz
+   check: "tcp-ping"
+   url: frtro.ipservers.xyz
+ - name: detro.ipservers.xyz
+   check: "tcp-ping"
+   url: detro.ipservers.xyz
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

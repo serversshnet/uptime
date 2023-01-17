@@ -166,11 +166,11 @@
     "url": "uk1.ipservers.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uk1-ipservers-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.77%",
     "time": 56,
     "timeDay": 78,
@@ -178,6 +178,7 @@
     "timeMonth": 57,
     "timeYear": 56,
     "dailyMinutesDown": {
+      "2023-01-17": 6,
       "2022-11-11": 153,
       "2022-11-04": 59,
       "2022-10-17": 117,
@@ -561,7 +562,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.81%",
+    "uptimeWeek": "81.08%",
     "uptimeMonth": "93.10%",
     "uptimeYear": "98.58%",
     "time": 302,
@@ -768,7 +769,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 559,
+      "2023-01-17": 585,
       "2023-01-16": 811
     }
   },
@@ -789,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 559,
+      "2023-01-17": 586,
       "2023-01-16": 811
     }
   },
@@ -918,7 +919,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 559,
+      "2023-01-17": 586,
       "2023-01-16": 810
     }
   },
@@ -1153,7 +1154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 559,
+      "2023-01-17": 586,
       "2023-01-16": 808
     }
   },
@@ -1287,11 +1288,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-ray-ipservers-xyz",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.68%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 232,
     "timeDay": 232,
     "timeWeek": 232,
@@ -2064,11 +2065,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id2-ray-ipservers-xyz",
     "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
+    "uptime": "97.30%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
     "time": 309,
     "timeDay": 309,
     "timeWeek": 309,

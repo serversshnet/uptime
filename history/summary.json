@@ -24,7 +24,7 @@
     "slug": "sg1-ipservers-xyz",
     "status": "up",
     "uptime": "93.44%",
-    "uptimeDay": "91.83%",
+    "uptimeDay": "94.16%",
     "uptimeWeek": "97.43%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "93.44%",
@@ -194,7 +194,7 @@
     "slug": "sg1-7-ipservers-xyz",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "91.83%",
+    "uptimeDay": "94.17%",
     "uptimeWeek": "97.43%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.81%",
@@ -280,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg4-7-ipservers-xyz",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.90%",
     "time": 210,
     "timeDay": 237,
     "timeWeek": 212,
@@ -366,7 +366,7 @@
     "uptime": "93.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.09%",
-    "uptimeMonth": "82.05%",
+    "uptimeMonth": "82.16%",
     "uptimeYear": "93.35%",
     "time": 316,
     "timeDay": 235,
@@ -561,7 +561,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.90%",
+    "uptimeWeek": "83.38%",
     "uptimeMonth": "93.10%",
     "uptimeYear": "98.58%",
     "time": 302,
@@ -768,7 +768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 769,
+      "2023-01-17": 817,
       "2023-01-16": 811
     }
   },
@@ -789,7 +789,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 769,
+      "2023-01-17": 817,
       "2023-01-16": 811
     }
   },
@@ -918,7 +918,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 769,
+      "2023-01-17": 817,
       "2023-01-16": 810
     }
   },
@@ -994,11 +994,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ge-ipservers-xyz",
     "status": "up",
-    "uptime": "90.84%",
+    "uptime": "90.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "90.84%",
+    "uptimeYear": "90.85%",
     "time": 142,
     "timeDay": 103,
     "timeWeek": 143,
@@ -1153,7 +1153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 770,
+      "2023-01-17": 817,
       "2023-01-16": 808
     }
   },
@@ -1287,11 +1287,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-ray-ipservers-xyz",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.87%",
     "uptimeDay": "98.72%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 232,
     "timeDay": 231,
     "timeWeek": 232,
@@ -1671,18 +1671,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us2-ray-ipservers-xyz",
     "status": "up",
-    "uptime": "88.70%",
-    "uptimeDay": "87.62%",
-    "uptimeWeek": "88.70%",
-    "uptimeMonth": "88.70%",
-    "uptimeYear": "88.70%",
+    "uptime": "86.11%",
+    "uptimeDay": "84.32%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "86.11%",
     "time": 73,
     "timeDay": 72,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2023-01-17": 178
+      "2023-01-17": 226
     }
   },
   {
@@ -2065,19 +2065,19 @@
     "url": "id2-ray.ipservers.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id2-ray-ipservers-xyz",
-    "status": "up",
-    "uptime": "95.01%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "95.01%",
+    "status": "down",
+    "uptime": "94.98%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "94.98%",
     "time": 469,
     "timeDay": 519,
     "timeWeek": 469,
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-01-17": 57,
+      "2023-01-17": 60,
       "2023-01-16": 21
     }
   },

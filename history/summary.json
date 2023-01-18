@@ -305,11 +305,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us1-7-ipservers-xyz",
     "status": "up",
-    "uptime": "92.91%",
+    "uptime": "92.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.91%",
+    "uptimeYear": "92.92%",
     "time": 44,
     "timeDay": 13,
     "timeWeek": 45,
@@ -771,7 +771,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 937,
+      "2023-01-18": 948,
       "2023-01-17": 1440,
       "2023-01-16": 811
     }
@@ -793,7 +793,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 937,
+      "2023-01-18": 948,
       "2023-01-17": 1440,
       "2023-01-16": 811
     }
@@ -925,7 +925,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 937,
+      "2023-01-18": 948,
       "2023-01-17": 1440,
       "2023-01-16": 810
     }
@@ -1161,7 +1161,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 937,
+      "2023-01-18": 948,
       "2023-01-17": 1440,
       "2023-01-16": 808
     }
@@ -1680,18 +1680,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us2-ray-ipservers-xyz",
     "status": "up",
-    "uptime": "43.94%",
+    "uptime": "43.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.94%",
-    "uptimeMonth": "43.94%",
-    "uptimeYear": "43.94%",
+    "uptimeWeek": "43.79%",
+    "uptimeMonth": "43.79%",
+    "uptimeYear": "43.79%",
     "time": 72,
     "timeDay": 70,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2023-01-18": 938,
+      "2023-01-18": 948,
       "2023-01-17": 848
     }
   },
@@ -2075,19 +2075,19 @@
     "url": "id2-ray.ipservers.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id2-ray-ipservers-xyz",
-    "status": "down",
-    "uptime": "97.44%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "97.44%",
-    "time": 413,
-    "timeDay": 274,
-    "timeWeek": 413,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "status": "up",
+    "uptime": "97.21%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "97.21%",
+    "time": 392,
+    "timeDay": 259,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-01-18": 3,
+      "2023-01-18": 11,
       "2023-01-17": 57,
       "2023-01-16": 21
     }

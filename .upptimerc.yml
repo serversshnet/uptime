@@ -323,11 +323,9 @@ status-website:
   introTitle: "Monitor server status for services on jagoanssh"
   introMessage: This is a server status page that uses real-time data  
   navbar:
-    - title: Uptime
-      href: /
     - title: Home
       href: https://tinyurl.com/jagoanssh
-  theme: light
+  theme: ocean
   metaTags:
     - name: "color-scheme"
       content: "dark light"
@@ -338,9 +336,9 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "0 * * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  updateTemplate: "0 */6 * * *"
+  updates: "0 * * * *"
   uptime: "*/5 * * * *"

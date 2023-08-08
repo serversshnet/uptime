@@ -1,7 +1,7 @@
 url: uk1.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-08-08T02:58:49.850Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2023-08-08T03:17:17.952Z
 startTime: Sat Jul 16 2022 06:15:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

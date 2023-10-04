@@ -1,7 +1,7 @@
 url: usgo.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-04T17:25:02.256Z
+status: up
+code: 200
+responseTime: 67
+lastUpdated: 2023-10-04T18:00:44.435Z
 startTime: 2022-08-20T10:29:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>

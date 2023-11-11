@@ -1,7 +1,7 @@
 url: frgo.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-11T16:04:06.883Z
+status: up
+code: 200
+responseTime: 92
+lastUpdated: 2023-11-11T16:40:29.920Z
 startTime: 2023-01-16T10:32:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: frtro.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-14T20:18:28.026Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2023-11-14T21:08:49.046Z
 startTime: 2023-01-16T10:34:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>

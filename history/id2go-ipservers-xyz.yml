@@ -1,7 +1,7 @@
 url: id2go.ipservers.xyz
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2023-11-15T13:37:35.046Z
+lastUpdated: 2023-11-15T14:17:15.603Z
 startTime: 2023-01-16T10:32:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>

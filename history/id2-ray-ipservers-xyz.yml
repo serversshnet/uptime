@@ -1,7 +1,7 @@
 url: id2-ray.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-02T11:26:04.062Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2023-12-02T11:53:28.848Z
 startTime: 2023-01-16T10:32:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

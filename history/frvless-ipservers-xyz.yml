@@ -1,7 +1,7 @@
 url: frvless.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-29T14:30:01.097Z
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2023-12-29T16:32:53.448Z
 startTime: 2023-01-16T10:32:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>

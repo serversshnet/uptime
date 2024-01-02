@@ -1,7 +1,7 @@
 url: detro.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-02T19:40:13.568Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2024-01-02T20:26:19.667Z
 startTime: 2023-01-16T10:34:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>

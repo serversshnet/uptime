@@ -1,7 +1,7 @@
 url: id1go.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-14T10:55:40.712Z
+status: up
+code: 200
+responseTime: 248
+lastUpdated: 2024-01-14T11:40:04.923Z
 startTime: 2023-01-16T10:32:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>

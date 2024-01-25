@@ -1,7 +1,7 @@
 url: sg1go.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-25T21:35:59.167Z
+status: up
+code: 200
+responseTime: 2
+lastUpdated: 2024-01-25T22:02:28.736Z
 startTime: 2022-08-20T10:29:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>

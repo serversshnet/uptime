@@ -1,7 +1,7 @@
 url: sgtro.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-25T23:39:04.489Z
+status: up
+code: 200
+responseTime: 5
+lastUpdated: 2024-01-26T00:27:32.703Z
 startTime: 2022-08-20T10:29:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>

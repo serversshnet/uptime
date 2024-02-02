@@ -1,7 +1,7 @@
 url: us1vless.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-02T10:32:48.759Z
+status: up
+code: 200
+responseTime: 73
+lastUpdated: 2024-02-02T11:24:25.048Z
 startTime: 2023-01-16T10:32:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

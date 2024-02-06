@@ -1,7 +1,7 @@
 url: dego.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-06T19:10:04.046Z
+status: up
+code: 200
+responseTime: 156
+lastUpdated: 2024-02-06T19:35:07.978Z
 startTime: 2023-01-16T10:32:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>

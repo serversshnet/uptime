@@ -1,7 +1,7 @@
 url: sg-ray.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-24T06:35:09.588Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2024-03-24T08:37:02.151Z
 startTime: 2023-01-16T10:31:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>

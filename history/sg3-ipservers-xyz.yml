@@ -1,7 +1,7 @@
 url: sg3.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-06T20:08:37.811Z
+status: up
+code: 200
+responseTime: 227
+lastUpdated: 2024-07-06T20:58:42.552Z
 startTime: 2022-07-16T06:14:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>

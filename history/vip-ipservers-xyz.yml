@@ -1,7 +1,7 @@
 url: vip.ipservers.xyz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-07T17:00:57.116Z
+status: up
+code: 200
+responseTime: 266
+lastUpdated: 2025-02-07T17:53:59.860Z
 startTime: 2022-07-16T06:15:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
